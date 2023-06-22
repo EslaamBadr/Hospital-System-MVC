@@ -1,0 +1,12 @@
+﻿@using Hospital.BL.ViewModels;
+@model IEnumerable<DoctorReadVM>
+
+@foreach(var doc in Model)
+{
+    <p>Name: @doc.Name</p>
+    <p>Specialization: @doc.Specialization</p>
+    <p>Rate: @doc.PerformanceRate</p>
+    <a class="btn btn-warning" href="https://localhost:7153/Doctor/edit/@doc.Id">Edit</a>
+    <a class="btn btn-primary" href="https://localhost:7153/Doctor/details/@doc.Id">Details</a>
+    <hr />
+}

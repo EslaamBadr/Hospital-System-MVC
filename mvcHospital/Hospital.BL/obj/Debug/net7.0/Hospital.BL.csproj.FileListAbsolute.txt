@@ -1,0 +1,90 @@
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\bin\Debug\net7.0\Hospital.BL.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\bin\Debug\net7.0\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\bin\Debug\net7.0\Hospital.BL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CopyComplete
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\obj\Debug\net7.0\refint\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.BL\obj\Debug\net7.0\ref\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\bin\Debug\net7.0\Hospital.BL.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\bin\Debug\net7.0\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\bin\Debug\net7.0\Hospital.BL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CopyComplete
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\refint\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\ref\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\refint\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\bin\Debug\net7.0\Hospital.BL.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\bin\Debug\net7.0\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\bin\Debug\net7.0\Hospital.BL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CopyComplete
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.BL\obj\Debug\net7.0\ref\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\bin\Debug\net7.0\Hospital.BL.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\bin\Debug\net7.0\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\bin\Debug\net7.0\Hospital.BL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CopyComplete
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\obj\Debug\net7.0\refint\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\obj\Debug\net7.0\Hospital.BL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.BL\obj\Debug\net7.0\ref\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\bin\Debug\net7.0\Hospital.BL.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\bin\Debug\net7.0\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\bin\Debug\net7.0\Hospital.BL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CopyComplete
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\refint\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\ref\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\bin\Debug\net7.0\Hospital.BL.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\bin\Debug\net7.0\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\bin\Debug\net7.0\Hospital.BL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CopyComplete
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\refint\Hospital.BL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\Hospital.BL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.BL\obj\Debug\net7.0\ref\Hospital.BL.dll

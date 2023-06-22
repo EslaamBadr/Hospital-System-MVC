@@ -1,0 +1,84 @@
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.runtimeconfig.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\obj\Debug\net7.0\refint\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.genruntimeconfig.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 4\mvcD4Lab\Hospital.DAL\obj\Debug\net7.0\ref\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.runtimeconfig.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\refint\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.genruntimeconfig.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 5\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\ref\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.runtimeconfig.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\refint\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.genruntimeconfig.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD5Lab\Hospital.DAL\obj\Debug\net7.0\ref\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.runtimeconfig.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\obj\Debug\net7.0\refint\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.genruntimeconfig.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab\Hospital.DAL\obj\Debug\net7.0\ref\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.runtimeconfig.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\refint\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.genruntimeconfig.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 6\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\ref\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.runtimeconfig.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\refint\Hospital.DAL.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\Hospital.DAL.genruntimeconfig.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core MVC\Day 7\mvcD6Lab - Copy\Hospital.DAL\obj\Debug\net7.0\ref\Hospital.DAL.dll

@@ -1,0 +1,42 @@
+﻿@using Hospital.BL;
+@model DoctorAddVM;
+
+<h3>@(ViewBag.ChangingValue) //from ChangingValue</h3>
+
+<form asp-action="Add" method="post" style="
+border: 2px solid black;
+width:40%;
+margin-left:auto;
+margin-right:auto;
+">
+    <div class="fw-bolder fs-4 d-flex justify-content-center">
+        <p>Enter a new doctor</p>
+    </div>
+
+    <div class="form-group m-2">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" name="Name" class="form-control" style="width:100%" />
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+    <div class="form-group m-2">
+        <label asp-for="Specialization"></label>
+        <input asp-for="Specialization" name="Specialization" class="form-control" style="width:100%" />
+        <span class="text-danger" asp-validation-for="Specialization"></span>
+    </div>
+    <div class="form-group m-2">
+        <label asp-for="PerformanceRate"></label>
+        <input asp-for="PerformanceRate" name="PerformanceRate" type="number" class="form-control" style="width:100%" />
+        <span class="text-danger" asp-validation-for="PerformanceRate"></span>
+    </div>
+
+    <div class="d-flex justify-content-center m-3">
+        <button class="btn btn-success" OnClick="submitButton_Click">Add</button>
+    </div>
+
+</form>
+
+@section Scripts
+    {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
